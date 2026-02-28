@@ -19,3 +19,6 @@ ________________________________________________________________________________
 What I found (Insights):There is a very strong connection between experience and salary.
 The model accuracy ($R^2$) is very high (above 0.95), which means it is very reliable.
 **Benefit**: It helps HR teams decide the right salary for a new employee based on their experience.
+______________________________________________________________________________________
+## 🗝️ Keywords
+Linear Regression, Python, Data Science, EDA, Salary Prediction, Delivery Time Analysis, Machine Learning Lifecycle.
